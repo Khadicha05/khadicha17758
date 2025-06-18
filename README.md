@@ -287,7 +287,7 @@
             7: "#", // Replace with your Assignment 7 URL when available
             8: "#", // Replace with your Assignment 8 URL when available
             9: "#", // Replace with your Assignment 9 URL when available
-            10: "#", // Replace with your Assignment 10 URL when available
+            10: "https://khadicha05.github.io/assignment9/",
         };
         
         // Assignment due dates
@@ -305,7 +305,7 @@
         };
         
         // Completed assignments (assignments with valid URLs)
-        const completedAssignments = [];
+        const completedAssignments = [10,];
         
         // Initialize assignments
         function initializeAssignments() {
