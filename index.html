@@ -286,8 +286,8 @@
             6: "#", // Replace with your Assignment 6 URL when available
             7: "#", // Replace with your Assignment 7 URL when available
             8: "#", // Replace with your Assignment 8 URL when available
-            9: "#" // Replace with your Assignment 9 URL when available
-            10: "#" // Replace with your Assignment 10 URL when available
+            9: "#", // Replace with your Assignment 9 URL when available
+            10: "#", // Replace with your Assignment 10 URL when available
         };
         
         // Assignment due dates
